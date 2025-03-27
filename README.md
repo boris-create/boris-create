@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsODJ6OGoweHMxY20zM3RhYW9xcGszcmR2ZDkwbGIyaHVhY3VobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExsgrTuACbtPaqQ/giphy.gif" alt="Welcome GIF" />
+</p>
+
 # 👋 Hi, I'm [Boris](https://github.com/boris-create)!
 
 Welcome to my GitHub profile. I'm a passionate learner, diving into the world of **web development**, **cybersecurity**, and **programming**. I enjoy creating projects that improve quality of life.
 
 ## 🚀 About Me
-- 👀 **Interests**: Learning about building webpages/apps, cybersecurity, and conjuring quality of life programs.
-- 🌱 **Currently Learning**: HTML, CSS, Python, Shell scripting, and Cybersecurity.
+- 👀 **Interests**: Learning about cybersecurity, webpages/apps, and conjuring quality of life programs.
+- 🌱 **Currently Learning**: HTML, CSS, Python, Shell/Bash scripting, Linux, Raspberry Pi, and Cybersecurity.
 - 💞️ **Collaborations**: I’m looking to collaborate on small projects that involve web development, automation, or security.
 - 📫 **Reach Me**: The best way to contact me is via GitHub or email: [boriscreate@gmail.com](mailto:boriscreate@gmail.com).
 
@@ -27,11 +31,10 @@ Here’s a look at what I’m currently working on:
 
 ## 💡 My Projects
 I am actively working on a few projects related to:
-- **Web Development**
 - **Security Tools**
 - **Automation Scripts**
 
-Check out my repositories to see what I’ve been building!
+Check out my repositories to see what I’ve been building! (Slowly Updating)
 
 ---
 
