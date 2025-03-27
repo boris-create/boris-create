@@ -23,6 +23,7 @@ Here’s a look at what I’m currently working on:
 ![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-blueviolet)
 
 ### Progress:
+.... Updating .... Slowly!
 <!--- - **HTML & CSS**: ![HTML Progress](https://progress-bar.dev/60/?scale=100&title=HTML%20CSS&width=250&color=orange&suffix=%)
 - **Python**: ![Python Progress](https://progress-bar.dev/40/?scale=100&title=Python&width=250&color=blue&suffix=%)
 - **Cybersecurity**: ![Cybersecurity Progress](https://progress-bar.dev/30/?scale=100&title=Cybersecurity&width=250&color=blueviolet&suffix=%)
